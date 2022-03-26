@@ -3,27 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Stirng", "1.Stirng.csproj", "{71275D40-9BB0-440D-B250-73D3AB5CE849}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001 Stirng", "001 Stirng.csproj", "{71275D40-9BB0-440D-B250-73D3AB5CE849}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.DataType", "..\DataType\2.DataType.csproj", "{8A38EBC8-901C-4A8E-AD7B-EC8E32E08832}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002 DataType", "..\DataType\002 DataType.csproj", "{8A38EBC8-901C-4A8E-AD7B-EC8E32E08832}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method", "..\Method\Method.csproj", "{1AAE40C1-551D-4C68-9BCB-8DBCDD3A12DB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003 Method", "..\Method\003 Method.csproj", "{1AAE40C1-551D-4C68-9BCB-8DBCDD3A12DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operator", "..\Operator\Operator.csproj", "{65E2D921-C5EB-4F89-922F-B0703CC59691}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004 Operator", "..\Operator\004 Operator.csproj", "{65E2D921-C5EB-4F89-922F-B0703CC59691}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum", "..\Enum\Enum.csproj", "{D34D3C55-69C5-498B-BD80-759008B808B2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005 Enum", "..\Enum\005 Enum.csproj", "{D34D3C55-69C5-498B-BD80-759008B808B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arry", "..\Arry\Arry.csproj", "{D1E1A453-83F6-40F1-88E2-CF123A820CD2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007 Arry", "..\Arry\007 Arry.csproj", "{D1E1A453-83F6-40F1-88E2-CF123A820CD2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "if_switch", "..\if_switch\if_switch.csproj", "{311FB5CE-5578-402E-9BB7-3731164227F6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008 if_switch", "..\if_switch\008 if_switch.csproj", "{311FB5CE-5578-402E-9BB7-3731164227F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "for_foreach", "..\for_foreach\for_foreach.csproj", "{96B715A8-56B4-4817-AB2B-0F648CF07D44}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009 for_foreach", "..\for_foreach\009 for_foreach.csproj", "{96B715A8-56B4-4817-AB2B-0F648CF07D44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "while_do while", "..\while_do while\while_do while.csproj", "{58FB39EF-5757-4583-B6BE-6D15385A6561}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010 while_do while", "..\while_do while\010 while_do while.csproj", "{58FB39EF-5757-4583-B6BE-6D15385A6561}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Struct_Class", "..\Struct_Class\Struct_Class.csproj", "{FDB596F1-BA7A-41B4-8B5C-AB76586F0163}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011 Struct_Class", "..\Struct_Class\011 Struct_Class.csproj", "{FDB596F1-BA7A-41B4-8B5C-AB76586F0163}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "..\Inheritance\Inheritance.csproj", "{AFB8AFED-430C-4806-8AEE-C273124167CA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013 Inheritance", "..\Inheritance\013 Inheritance.csproj", "{AFB8AFED-430C-4806-8AEE-C273124167CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "014 Override_Overload", "..\Override_Overload\014 Override_Overload.csproj", "{E634F84B-F546-4AAB-B1D7-2B6EA9095D4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "015 Partial", "..\Partial\015 Partial.csproj", "{51A3CB1D-0368-4DF9-AACD-491E722BEEFA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +79,14 @@ Global
 		{AFB8AFED-430C-4806-8AEE-C273124167CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFB8AFED-430C-4806-8AEE-C273124167CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFB8AFED-430C-4806-8AEE-C273124167CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E634F84B-F546-4AAB-B1D7-2B6EA9095D4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E634F84B-F546-4AAB-B1D7-2B6EA9095D4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E634F84B-F546-4AAB-B1D7-2B6EA9095D4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E634F84B-F546-4AAB-B1D7-2B6EA9095D4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51A3CB1D-0368-4DF9-AACD-491E722BEEFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51A3CB1D-0368-4DF9-AACD-491E722BEEFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51A3CB1D-0368-4DF9-AACD-491E722BEEFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51A3CB1D-0368-4DF9-AACD-491E722BEEFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
